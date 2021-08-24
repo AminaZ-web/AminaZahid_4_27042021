@@ -284,7 +284,7 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    font-size: 40px;
 }
 
 .navbar {
@@ -480,7 +480,7 @@ button {
 }
 
 .icon-lg {
-    font-size: 60px!important;
+    font-size: 70px!important;
 }
 
 .sm-shadow {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -692,7 +692,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: black!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -710,7 +710,7 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 17px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -771,16 +771,18 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #8a7c76;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #EDBD4C!important;
+    font-weight: bold;
+  
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #EDBD4C;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
